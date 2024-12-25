@@ -4,7 +4,7 @@
 This project focuses on performing Exploratory Data Analysis (EDA) on a dataset of restaurants. The dataset contains information about various restaurants, including location, cuisine, ratings, pricing, and availability of services such as online delivery, table booking, etc.
 
 ## Introduction
-The objective of this project is to explore a dataset that contains information about restaurants, such as their location, cuisine type, ratings, and pricing. This project performs several EDA tasks, including:
+The objective of this project is to explore a dataset that contains information about restaurants, such as their location, cuisine type, ratings, and pricing.
 
 
 ## Steps Involved
